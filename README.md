@@ -2,12 +2,14 @@
 
 Welcome to my GitHub profile — I’m an aspiring AI engineer with a creative mind and a builder’s spirit.
 Currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at Geethanjali College of Engineering and Technology, I enjoy solving real-world problems that blend tech, business, empathy, and design.
+
 📧 Email: vinayak.tnv@gmail.com
+
 🔗 LinkedIn: [Vinayak Thummalapalli](https://www.linkedin.com/in/vinayak-thummalapalli-7b8b9128a)
 
 ---
 
-##🧠 **About Me**
+🧠 **About Me**
 
 🎓 2nd year AIML student who’s always up for a challenge.
 
@@ -38,7 +40,7 @@ Compose Connect Corner – A lightweight blogging platform with a clean UI, rich
 
 ---
 
-##🎯**Vision**
+🎯**Vision**
 
 I strive to become a tech-savvy problem solver with business insight — someone who can not only build scalable solutions but also understand the user and the impact.
 My journey is all about learning, applying, and sharing — one project at a time.
@@ -46,7 +48,7 @@ My journey is all about learning, applying, and sharing — one project at a tim
 
 ---
 
-##💬**Let’s Connect**
+💬**Let’s Connect**
 
 Open to collaborations, internships, and discussions around tech, data, product, and business.
 Let’s build something impactful together!
@@ -54,7 +56,7 @@ Let’s build something impactful together!
 
 ---
 
-#✨ **Quotes I Live By**
+✨ **Quotes I Live By**
 
 > “I don’t give up easily — persistence and patience are my silent superpowers.”
 “Every challenge is a learning curve, every failure a stepping stone.”
